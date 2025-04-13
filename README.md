@@ -1,6 +1,6 @@
 # Instagram Follow Insights
 
-This project helps you **analyze your Instagram following vs. followers** using official data exported directly from Instagram — no third-party apps required.
+This project helps you **analyze your Instagram following vs. followers** using official data exported directly from Instagram — no third-party apps required. This program only parses your exported **JSON data** and does **not connect to Instagram**.
 
 It shows:
 - Who you follow that **doesn’t follow you back**
