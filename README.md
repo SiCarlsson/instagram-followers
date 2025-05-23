@@ -5,8 +5,8 @@ This project helps you **analyze your Instagram following vs. followers** using 
 This program only parses your exported **JSON data** and does **not connect to Instagram**.
 
 It shows:
-- Who you follow that **doesn’t follow you back**
-- Who follows you that **you don’t follow back**
+- Who you follow that **doesn’t follow you back**.
+- Who follows you that **you don’t follow back**.
 
 ---
 
@@ -14,12 +14,14 @@ It shows:
 
 1. **Request Your Instagram Data**:
    - Visit [Instagram Data Download](https://www.instagram.com/download/request/).
-   - When making the request, **choose the longest possible timeframe** to ensure you get **all your followers and following data**.
+   - When making the request:
+     - **Choose the longest possible timeframe** to ensure you get complete data.
+     - **Select the JSON format**
    - Download the data after Instagram processes your request.
 
 2. **Files You Will Need**:
-   - `following.json`: Located in the `connections/followers_and_following/` folder of your downloaded data. This file contains the users you follow.
-   - `followers_1.json`: Also located in the `connections/followers_and_following/` folder. This file contains the users who follow you.
+   - `following.json`: Found in `connections/followers_and_following/`. This file contains the users you follow.
+   - `followers_1.json`: Found in `connections/followers_and_following/`. This file contains the users who follow you.
 
 ---
 
