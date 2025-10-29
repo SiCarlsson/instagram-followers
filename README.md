@@ -15,6 +15,7 @@ It shows:
 1. **Request Your Instagram Data**:
    - Visit [Instagram Data Download](https://www.instagram.com/download/request/).
    - When making the request:
+     - **Select Following & Followers** as the data to download.
      - **Choose the longest possible timeframe** to ensure you get complete data.
      - **Select the JSON format**
    - Download the data after Instagram processes your request.
