@@ -1,10 +1,11 @@
 # Instagram Followers Insights
 
-This project helps you **analyze your Instagram following vs. followers** using official data exported directly from Instagram — no third-party apps required. 
+This project helps you **analyze your Instagram following vs. followers** using official data exported directly from Instagram — no third-party apps required.
 
 This program only parses your exported **JSON data** and does **not connect to Instagram**.
 
 It shows:
+
 - Who you follow that **doesn’t follow you back**.
 - Who follows you that **you don’t follow back**.
 
@@ -13,6 +14,7 @@ It shows:
 ## 📦 What You Need
 
 1. **Request Your Instagram Data**:
+
    - Visit [Instagram Data Download](https://www.instagram.com/download/request/).
    - When making the request:
      - **Select Following & Followers** as the data to download.
@@ -34,6 +36,8 @@ It shows:
 
 3. Run the script:
 
-    ```bash
-    python main.py
-    ```
+   ```bash
+   python main.py
+   ```
+
+> **Note:** Terminated accounts will appear as not following you back.
